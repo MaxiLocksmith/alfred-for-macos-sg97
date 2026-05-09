@@ -1,4 +1,4 @@
-
+vip Plugin for Alfred for macOS - memory-optimization and quick-launch is the best Alfred for macOS plugin, featuring memory-optimization and quick-launch. Safe, efficient, and
 
 
 
